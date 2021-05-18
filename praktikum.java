@@ -1,5 +1,5 @@
 # tugas10.java
-DOSEN PENGAMPU : MUHAMMAD DEDI IRAWAN, M.KOM
+# DOSEN PENGAMPU : MUHAMMAD DEDI IRAWAN, M.KOM
 ==============================================
 package com.mycompany.dulla.dullah;
 
